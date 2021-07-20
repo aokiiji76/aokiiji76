@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# 👋 Hello, je suis Julien
+## 👀 Développeur Web Junior Spécialisation Symfony
+###  Je suis à la recherche d'un emploi dans le développement web sur Rouen et ses alentours
+#### 📫 N'hésitez pas à me contacter à julienlhermenier.dev@gmail.com
 <!--
 **aokiiji76/aokiiji76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
